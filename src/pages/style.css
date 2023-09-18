@@ -1,0 +1,15 @@
+.homepage-main, .exitpage-main{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 128, 0, 0.259);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.homepage-header, .exitpage-header{
+    font-size:larger;
+    font-weight: bolder;
+    color: white;
+    letter-spacing: 1px;
+}
